@@ -919,8 +919,8 @@ MonoBehaviour:
   Healing: 10
   healthBar: {fileID: 838376976}
   spriteRender: {fileID: 0}
-  healthyMonster: {fileID: 680205142, guid: a40bcec6bfa9fa9499c182ed4f77199d, type: 3}
-  dyingMonster: {fileID: 1183885522, guid: a40bcec6bfa9fa9499c182ed4f77199d, type: 3}
+  healthyMonster: {fileID: -1470645166, guid: 5feb4e56bc7d38f4e89dc6a41d425309, type: 3}
+  dyingMonster: {fileID: 1557569453, guid: 5feb4e56bc7d38f4e89dc6a41d425309, type: 3}
 --- !u!1 &1181642638
 GameObject:
   m_ObjectHideFlags: 0
