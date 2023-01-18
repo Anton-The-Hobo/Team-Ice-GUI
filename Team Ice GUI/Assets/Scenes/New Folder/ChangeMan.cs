@@ -12,9 +12,9 @@ public class ChangeMan : MonoBehaviour
     this.gameObject.GetComponent<SpriteRenderer>().sprite = cool;
     }
 
-public void Green()
-{
+    public void Green()
+    {
     this.gameObject.GetComponent<SpriteRenderer>().sprite = green;
-}
+    }
 
 }

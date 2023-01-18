@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: bcde6cf17ad0063438b0306aeba4394c
+guid: 388a6c19e3e4d5441a694d9e8b9a4a2d
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -116,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: DigDig_GUI_Ice_knapp_0
+      name: gui_spritesheet_bar_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 32
-        width: 32
-        height: 32
+        y: 192
+        width: 256
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,83 +130,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 311a382305662ce48973807d670d8fc9
-      internalID: -2035895439
+      spriteID: 6de94b5608b5a8143adeb0bf313a82ef
+      internalID: 1028727218
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DigDig_GUI_Ice_knapp_1
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e302658942eb51143ba8fcb3c2a2cdae
-      internalID: 1315137337
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DigDig_GUI_Ice_knapp_2
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a781fd94828d8c44a9c6d0dc8b834383
-      internalID: -747071600
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DigDig_GUI_Ice_knapp_3
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7b61a84a5c82ccd40806b39432dd6be8
-      internalID: 97968285
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DigDig_GUI_Ice_knapp_4
+      name: gui_spritesheet_bar_1
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 32
-        height: 32
+        y: 128
+        width: 256
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -214,20 +151,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 81a367d74615b05408bffd7c3fe3c301
-      internalID: 127484367
+      spriteID: 33516d062b2d7b14a95a12e9073bac34
+      internalID: 666126799
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DigDig_GUI_Ice_knapp_5
+      name: gui_spritesheet_bar_2
       rect:
         serializedVersion: 2
-        x: 32
-        y: 0
-        width: 32
-        height: 32
+        x: 0
+        y: 64
+        width: 256
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,8 +172,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e19502f48406e64b9e1e02bece72f56
-      internalID: 880522283
+      spriteID: 5827bcbf903ba664f8c95f187a903c02
+      internalID: -509943844
       vertices: []
       indices: 
       edges: []
@@ -252,12 +189,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      DigDig_GUI_Ice_knapp_5: 880522283
-      DigDig_GUI_Ice_knapp_1: 1315137337
-      DigDig_GUI_Ice_knapp_0: -2035895439
-      DigDig_GUI_Ice_knapp_3: 97968285
-      DigDig_GUI_Ice_knapp_4: 127484367
-      DigDig_GUI_Ice_knapp_2: -747071600
+      gui_spritesheet_bar_0: 1028727218
+      gui_spritesheet_bar_2: -509943844
+      gui_spritesheet_bar_1: 666126799
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
